@@ -7,6 +7,12 @@ export const metadata: Metadata = {
   title: "Smart or Fast — Individual Football Development",
   description:
     "Word de speler die elke trainer wil opstellen. Online trainingsprogramma voor individuele voetbalontwikkeling. Spelintelligentie, explosiviteit en techniek voor spelers van 12-16 jaar.",
+  openGraph: {
+    title: "Smart or Fast — Individual Football Development",
+    description: "Word de speler die elke trainer wil opstellen.",
+    images: ["/og-image.jpg"],
+    type: "website",
+  },
   keywords: [
     "voetbaltraining",
     "individuele training",
